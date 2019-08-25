@@ -42,7 +42,7 @@ export default {
 
 .content {
   max-width: 80%;
-  margin: 0 auto;
+  margin: 8rem auto;
 }
 
 .content .intro {
